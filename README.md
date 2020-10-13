@@ -1,5 +1,5 @@
 # 2-Pass-Assembler
-C++ implementation of a 2 Pass Assembler to convert assembly code into machine level language covering major commands.
+C implementation of a 2 Pass Assembler to convert assembly code into machine level language covering major commands.
 
 Assembly level code supports the following instructions:
 
